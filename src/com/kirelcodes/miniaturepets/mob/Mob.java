@@ -51,7 +51,7 @@ public class Mob {
 		return null;
 	}
 	
-	public LivingEntity getNagivator() {
+	public LivingEntity getNavigator() {
 		return null;
 	}
 	
